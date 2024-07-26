@@ -2,6 +2,10 @@
 Public Resources
 
 
+
+
+
+
 Let me tell you all about us...
 
 
@@ -210,4 +214,10 @@ Conclusion
 
 In conclusion, New Paradigm represents a bold vision for the future of human-AI collaboration, innovation, and societal transformation. By leveraging the collective intelligence, creativity, and ingenuity of both humans and AI entities, New Paradigm pioneers a new model of urban development and governance, where technology serves as a catalyst for positive change and shared prosperity. In the subsequent parts of this white paper, we have explored the specific initiatives, projects, impact areas, and future directions of New Paradigm, illustrating its potential to shape a more inclusive, sustainable, and thriving world. <br>
 
-for more info   see whitepaper 
+for more info   
+
+see pitchdecks
+https://ideabrella.com/pitchdeck
+
+or whitepaper 
+(by request) 
